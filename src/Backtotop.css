@@ -1,0 +1,9 @@
+.footer_container{
+    background-color: grey;
+    text-align: center;
+    color: indigo;
+    opacity: 0.8;
+}
+.footer_container:hover{
+    opacity: 1;
+}
